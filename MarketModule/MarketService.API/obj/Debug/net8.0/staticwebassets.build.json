@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hczg0fxBIkV2byUoFagTzgJx7blU2Q6xhTyWkiH6rcM=",
+  "Source": "MarketService.API",
+  "BasePath": "_content/MarketService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

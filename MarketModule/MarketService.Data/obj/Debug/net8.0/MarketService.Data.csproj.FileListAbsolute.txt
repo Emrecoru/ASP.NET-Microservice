@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\bin\Debug\net8.0\MarketService.Data.deps.json
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\bin\Debug\net8.0\MarketService.Data.dll
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\bin\Debug\net8.0\MarketService.Data.pdb
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.dll
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\refint\MarketService.Data.dll
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.pdb
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\ref\MarketService.Data.dll
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\bin\Debug\net8.0\MarketService.Data.runtimeconfig.json
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\EmreCoru.UdemyMicroservice\MarketModule\MarketService.Data\obj\Debug\net8.0\MarketService.Data.genruntimeconfig.cache

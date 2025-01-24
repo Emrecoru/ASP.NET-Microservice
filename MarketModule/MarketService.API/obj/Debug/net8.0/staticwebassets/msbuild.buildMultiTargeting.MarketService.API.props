@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MarketService.API.props" />
+</Project>

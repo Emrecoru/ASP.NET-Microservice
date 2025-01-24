@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A649EF3-CB19-4DAC-955B-82353B66EDBA}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\inventorymodule\\inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A649EF3-CB19-4DAC-955B-82353B66EDBA}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventorymodule\\inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C80106-5C06-4703-9DFD-7DCA4E955A3C}|AccountStructureModule\\AccountService.API\\AccountService.API.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\accountstructuremodule\\accountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C80106-5C06-4703-9DFD-7DCA4E955A3C}|AccountStructureModule\\AccountService.API\\AccountService.API.csproj|solutionrelative:accountstructuremodule\\accountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A649EF3-CB19-4DAC-955B-82353B66EDBA}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\inventorymodule\\inventoryservice.api\\consumers\\marketcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A649EF3-CB19-4DAC-955B-82353B66EDBA}|InventoryModule\\InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventorymodule\\inventoryservice.api\\consumers\\marketcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7A2BA9-49E0-49D4-8E90-A13BFF62A003}|SharedModule\\Shared\\Shared.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\sharedmodule\\shared\\interfaces\\marketcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7A2BA9-49E0-49D4-8E90-A13BFF62A003}|SharedModule\\Shared\\Shared.csproj|solutionrelative:sharedmodule\\shared\\interfaces\\marketcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED138512-E6E7-4450-9F65-E27094C6D2B3}|MarketModule\\MarketService.API\\MarketService.API.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\marketmodule\\marketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED138512-E6E7-4450-9F65-E27094C6D2B3}|MarketModule\\MarketService.API\\MarketService.API.csproj|solutionrelative:marketmodule\\marketservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED138512-E6E7-4450-9F65-E27094C6D2B3}|MarketModule\\MarketService.API\\MarketService.API.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\marketmodule\\marketservice.api\\controllers\\marketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED138512-E6E7-4450-9F65-E27094C6D2B3}|MarketModule\\MarketService.API\\MarketService.API.csproj|solutionrelative:marketmodule\\marketservice.api\\controllers\\marketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7A2BA9-49E0-49D4-8E90-A13BFF62A003}|SharedModule\\Shared\\Shared.csproj|c:\\users\\pc\\desktop\\yaz\u0131l\u0131m\\github\\emrecoru.udemymicroservice\\sharedmodule\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB7A2BA9-49E0-49D4-8E90-A13BFF62A003}|SharedModule\\Shared\\Shared.csproj|solutionrelative:sharedmodule\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\InventoryModule\\InventoryService.API\\Consumers\\MarketCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "InventoryModule\\InventoryService.API\\Consumers\\MarketCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\InventoryModule\\InventoryService.API\\Consumers\\MarketCreatedConsumer.cs",
+              "RelativeToolTip": "InventoryModule\\InventoryService.API\\Consumers\\MarketCreatedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:01:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\InventoryModule\\InventoryService.API\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryModule\\InventoryService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\InventoryModule\\InventoryService.API\\Program.cs",
+              "RelativeToolTip": "InventoryModule\\InventoryService.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:33:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\MarketModule\\MarketService.API\\Program.cs",
+              "RelativeDocumentMoniker": "MarketModule\\MarketService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\MarketModule\\MarketService.API\\Program.cs",
+              "RelativeToolTip": "MarketModule\\MarketService.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:32:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarketsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\MarketModule\\MarketService.API\\Controllers\\MarketsController.cs",
+              "RelativeDocumentMoniker": "MarketModule\\MarketService.API\\Controllers\\MarketsController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\MarketModule\\MarketService.API\\Controllers\\MarketsController.cs",
+              "RelativeToolTip": "MarketModule\\MarketService.API\\Controllers\\MarketsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:32:42.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarketCreated.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\SharedModule\\Shared\\Interfaces\\MarketCreated.cs",
+              "RelativeDocumentMoniker": "SharedModule\\Shared\\Interfaces\\MarketCreated.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\SharedModule\\Shared\\Interfaces\\MarketCreated.cs",
+              "RelativeToolTip": "SharedModule\\Shared\\Interfaces\\MarketCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:32:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\SharedModule\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "SharedModule\\Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\SharedModule\\Shared\\Shared.csproj",
+              "RelativeToolTip": "SharedModule\\Shared\\Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T14:32:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\AccountStructureModule\\AccountService.API\\Program.cs",
+              "RelativeDocumentMoniker": "AccountStructureModule\\AccountService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Yaz\u0131l\u0131m\\Github\\EmreCoru.UdemyMicroservice\\AccountStructureModule\\AccountService.API\\Program.cs",
+              "RelativeToolTip": "AccountStructureModule\\AccountService.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:32:06.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
